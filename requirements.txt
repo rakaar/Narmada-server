@@ -7,7 +7,7 @@ jellyfish==0.7.1
 geocoder==1.38.1
 spacy==2.3.5
 emoji==0.5.1
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 word2number==1.1
 gunicorn==19.9.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
